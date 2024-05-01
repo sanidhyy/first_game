@@ -1,3 +1,5 @@
+<a name="readme-top"></a>
+
 # A short game I made with [Godot](https://godotengine.org/ "Godot") which uses [GDScript](https://gdscript.com/ "GDScript") Language.
 
 ## 🧪 Demonstration
@@ -8,7 +10,7 @@
 
 ### 🎮 How to play game?
 
-1. Download [Latest Github Release](example.com "Latest Github Release").
+1. Download [Latest Github Release](https://github.com/sanidhyy/first_game/releases "Latest Github Release").
 2. Run the **exe file** and you are good to go.
 
 ### 🚂 How to open in Godot Engine?
